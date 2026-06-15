@@ -151,8 +151,6 @@ In a complete Laravel tree, map this folder to **`/app`** and wire `composer.jso
 
 Backend sample from production government portal work — [CheSergo](https://github.com/CheSergo).
 
-For a **runnable** open-source API example, see [kanasensei](https://github.com/CheSergo/kanasensei) (Go + PostgreSQL).
-
 ---
 
 ## License
